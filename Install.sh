@@ -1,4 +1,4 @@
-Detalhesapt update && apt upgrade
+apt update && apt upgrade
 
 apt install curl
 
@@ -40,7 +40,7 @@ figlet istalado
 echo "\n\n\033[1;31m   Obrigado po usar meu script   \033[0m"
 
 echo "Youtube: https://www.youtube.com/channel/UCAmRS0i3PL2hlSNf8zpuKGg"
-echo \033[1;31m Passa la da um like ,Aproveita e se-escreva tambem\033[m0"
+echo "\033[1;31m Passa la da um like ,Aproveita e se-escreva tambem\033[m0"
 
 
 
