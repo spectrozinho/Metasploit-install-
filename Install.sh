@@ -2,18 +2,11 @@ apt update && apt upgrade
 
 apt install curl
 
-cd ..
+cd .. 
 
 clear
 
 
-
-
-
-
-
-
-echo "\n "
 #figura com oq ta escrito
 figlet   Install Metasploit
 
