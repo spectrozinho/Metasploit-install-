@@ -7,9 +7,9 @@ cd ..
 clear
 
 
-curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh
 
-chmod +x metasploit.sh
+
+
 
 
 
@@ -24,6 +24,8 @@ echo "\033[1;31m              by: Spectro Hacking \033[0m"
 
 curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/me
 tasploit.sh
+
+
 
 chmod +x metasploit.sh
 
